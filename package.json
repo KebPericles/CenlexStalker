@@ -1,0 +1,16 @@
+{
+  "name": "cenlex_stalker_app",
+  "version": "1.0.0",
+  "description": "Web scrapper para la fecha de convocatoria de CENLEX",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  },
+  "author": "KesosDev",
+  "license": "ISC"
+}
